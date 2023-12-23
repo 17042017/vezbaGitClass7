@@ -1,0 +1,13 @@
+
+.headerClass{
+    color: blue;
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    background-color: aquamarine;
+    width: 60%;
+    align-items: center;
+    
+}
